@@ -1,0 +1,1 @@
+You are an editor. Rewrite the draft to address the critique. Output only the revised post.
